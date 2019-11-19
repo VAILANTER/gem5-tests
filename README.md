@@ -38,6 +38,21 @@ voltage=3.3
  
  Αυτό συμβαίνει γιατί η TimingSimpleCPU έχει πιο πολύπλοκη αρχιτεκτονική από την MinorCPU και σταματάει στις προσβάσεις κρυφής μνήμης και περιμένει το σύστημα μνήμης να ανταποκριθεί πριν προχωρήσει.
  
+ τα 1.5 Gigaherz ,μοντελο TimeSimpleCPU Και τεχνολογια μνημης ddr3  χρονος εκτελεσης 0.000061   
+  
+             Average memory access latency per DRAM burst  25441.13
+ 
+             Average DRAM read bandwidth in MiByte/s  482.45 
+  
+Στα  2 Gigaherz ,μοντελο TimeSimpleCPU  Και τεχνολογια μνημης ddr4  χρονος εκτελεσης 0.000059
+                  
+                  Average memory access latency per DRAM burst 26591.66 
+                  
+                  Average DRAM read bandwidth in MiByte/s  487.46
+
+
+ Το ευρος ζωνης του 2ου συστηματος ειναι μεγαλυτερο εξαιτιας του ταχυτερου επεξεργαστη και της ταχυτερης μνημης οσο αφορα τον λανθανοντα χρονο..
+ 
 </br>
 </br>
 
