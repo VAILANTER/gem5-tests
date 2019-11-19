@@ -40,6 +40,5 @@ voltage=3.3
  
 </br>
 </br>
-</br>
 
 __By Panos Petridis & Theofilos Panagiotou__
