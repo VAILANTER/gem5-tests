@@ -35,3 +35,5 @@ voltage=3.3
  Στα 2.5 η διαφορα στους  χρονους εκτελεσης ειναι 0.000014
 
  Στα 1 η διαφορα ειναι 0.000013
+
+By Panos Petridis & Theofilos Panagiotou
