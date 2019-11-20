@@ -16,7 +16,7 @@ voltage=3.3
 Στο αρχειο config.json  υπαρχουν τα εξης στοιχεια :
 
 "voltage": [3.3]  
-"cache_line_size": 64 
+"cache_line_size": 64 </br>
 "time_sync_period": 100000000000
 
 Μεσα στη main και σαν default  συστημα εξομοιωσης υπαρχει το atomic  το οποιο θετει τα εξής χαρακτηριστικά στο σύστημα
