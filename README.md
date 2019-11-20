@@ -1,7 +1,7 @@
 #### We are running simulations of different in-order cpu types on gem5 and presenting the output results.
 <br/>
 Το πρόγραμμα μας είναι ένα απλό πρόγραμμα που φτιάχνει έναν πίνακα και βρίσκει μέγιστο και ελάχιστο στοιχείο, όπως και μέσο όρο.
-Βρίσκεται στον υποφάκελο src. </br></br>
+Βρίσκεται στον υποφάκελο src. </br>
 Το τρέχουμε με διαφορετικές in-Order αρχιτεκτονικές CPU (TimingSimpleCPU, MinorCPU και HPI). Παραθέτουμε και συγκρίνουμε τα αποτελέσματα που βρίκαμε (υπάρχουν στον φάκελο output).  </br>
 Στον φάκελο CPU_Description υπάρχουν οι βιβλιογραφικές πληροφορίες για τα in-order CPU μοντέλα που χρησιμοποιεί ο gem5. 
 
